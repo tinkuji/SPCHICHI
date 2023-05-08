@@ -1,4 +1,4 @@
 # SPCHICHI
 
-#Welcome to SPCHICHI
+Welcome to SPCHICHI\n
 We are the owner of TinkuManjan
