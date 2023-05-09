@@ -1,0 +1,5 @@
+
+LEX TOOL STEPS
+1.	Lex filename.l
+2.	Gcc lex.yy.cc -ll
+3.	./a.out
